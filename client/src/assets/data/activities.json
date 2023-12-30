@@ -1,0 +1,132 @@
+[
+    {
+        "title": "Rafting in Alfios",
+        "city": "Maratha",
+        "address": " Peloponnesus",
+        "distance": 300,
+        "price": 10,
+        "maxGroupSize": 2,
+        "desc": "Lousios river is where Zeus, father of Olympian gods bathed himself.Upon arrival to our base in the village of Maratha, our team will welcome you. You will be given neopren suits and safety equipment to change. You will then  enter our bus taking you to the starting point. Your guides will give an introductory lesson on paddling and safety and ..let the fun begin!We will paddle in Lousios and Alfeios rivers, which are of 2nd degree of difficulty. We will make various stops for a swim in the river’s crystal clear waters and for selfies in the densely vegetated gorge. Our ending takes place to the spectacular bridge of “Koukos” from where we will hike to a nearby waterfall.",
+        "reviews": [],
+
+        "photo": "/activity-images/activity-img01.jpg",
+        "featured": true
+    },
+    {
+        "title": "Creatan Safari",
+        "city": "Heraklion",
+        "address": " Crete",
+        "distance": 600,
+        "price": 79,
+        "maxGroupSize": 5,
+        "desc": "Experience the central part of Crete with its mythology, flora, fauna with lots of fun and interesting information about Crete and the local life.Your day starts from the moment you meet your drivers where they take you to your first stop at the Aposelimi dam. Continuing our journey through paths and olive trees, we reach the ruins of the Roman aqueduct of Lyttos. Next stop is the quaint village of Kastamonitsa where we join the locals for Raki and Olive oil tasting. From here the real off-road adventure begins by climbing high into the mountains and following the ancient Minoan path that leads us to a local shepherd where you have the chance try some of the home-made cheese and see a lot of wild animals. From here we make our way to a magnificent viewpoint where we can see the Minoan path and the first sitting of the Lassithi Plateau. Making our way down onto the Plateau we head to Zeus’ Cave (where mythology says that Zeus, the father of all the gods was born!) there is a 6€ entrance fee and walking shoes are recommended. When you reach the top of the cave you have the opportunity to take photographs as if with a helicopters view of the Lassithi Plateau and from here we cross the Plateau and stop for your delicious BBQ lunch with unlimited wine (vegetarian option available)!As we continue, we reach the village of Krassi, which is our last stop of the day, which is famous for a 2,000-year old plane tree and has a natural spring water source",
+        "reviews": [],
+
+        "photo": "/activity-images/activity-img02.jpg",
+        "featured": true
+    },
+    {
+        "title": "Mt. Parnassos Hike",
+        "city": "Parnassos",
+        "address": "Starting from Livadi Arachova ",
+        "distance": 500,
+        "price": 20,
+        "maxGroupSize": 10,
+        "desc": "Parnassos, the mythical mountain of antiquity generously offers unique hiking experiences!  The Parnassos National Park has a total area of 36,000 acres. It was founded in 1938 and together with Mt. Olympus National Park, they are the oldest National Parks in the country. This area presents truly impressive landscapes with fir forests, vertical caverns, rocky peaks as well as great biodiversity!",
+        "reviews": [],
+
+        "photo": "/activity-images/activity-img03.jpg",
+        "featured": true
+    },
+    {
+        "title": "Mt. Bike Lake Plastira",
+        "city": "Lake Plastira",
+        "address": "Karditsa regional unit",
+        "distance": 500,
+        "price": 15,
+        "maxGroupSize": 8,
+        "desc": "Mountain biking is an ideal way to explore the forest roads and trails that surround Lake Plastira. The morphology of the summits of Agrafa in combination with the dense pine forest that surrounds the lake provides unique views for the traveler. Follow our professional guides on a tour or rent your bike to choose your own routes.Safety equipment is provided free of charge to every rider and includes a bicycle helmet, reflective vest, backpack, tube changing tools, portable pump & extra tubes.",
+        "reviews": [],
+
+        "photo": "/activity-images/activity-img04.jpg",
+        "featured": true
+    },
+    {
+        "title": "Rafting in Alfios2",
+        "city": "Maratha",
+        "address": " Peloponnesus",
+        "distance": 300,
+        "price": 10,
+        "maxGroupSize": 2,
+        "desc": "Lousios river is where Zeus, father of Olympian gods bathed himself.Upon arrival to our base in the village of Maratha, our team will welcome you. You will be given neopren suits and safety equipment to change. You will then  enter our bus taking you to the starting point. Your guides will give an introductory lesson on paddling and safety and ..let the fun begin!We will paddle in Lousios and Alfeios rivers, which are of 2nd degree of difficulty. We will make various stops for a swim in the river’s crystal clear waters and for selfies in the densely vegetated gorge. Our ending takes place to the spectacular bridge of “Koukos” from where we will hike to a nearby waterfall.",
+        "reviews": [],
+
+        "photo": "/activity-images/activity-img01.jpg",
+        "featured": true
+    },
+    {
+        "title": "Creatan Safari2",
+        "city": "Heraklion",
+        "address": " Crete",
+        "distance": 600,
+        "price": 79,
+        "maxGroupSize": 5,
+        "desc": "Experience the central part of Crete with its mythology, flora, fauna with lots of fun and interesting information about Crete and the local life.Your day starts from the moment you meet your drivers where they take you to your first stop at the Aposelimi dam. Continuing our journey through paths and olive trees, we reach the ruins of the Roman aqueduct of Lyttos. Next stop is the quaint village of Kastamonitsa where we join the locals for Raki and Olive oil tasting. From here the real off-road adventure begins by climbing high into the mountains and following the ancient Minoan path that leads us to a local shepherd where you have the chance try some of the home-made cheese and see a lot of wild animals. From here we make our way to a magnificent viewpoint where we can see the Minoan path and the first sitting of the Lassithi Plateau. Making our way down onto the Plateau we head to Zeus’ Cave (where mythology says that Zeus, the father of all the gods was born!) there is a 6€ entrance fee and walking shoes are recommended. When you reach the top of the cave you have the opportunity to take photographs as if with a helicopters view of the Lassithi Plateau and from here we cross the Plateau and stop for your delicious BBQ lunch with unlimited wine (vegetarian option available)!As we continue, we reach the village of Krassi, which is our last stop of the day, which is famous for a 2,000-year old plane tree and has a natural spring water source",
+        "reviews": [],
+
+        "photo": "/activity-images/activity-img02.jpg",
+        "featured": true
+    },
+    {
+        "title": "Mt. Parnassos Hike2",
+        "city": "Parnassos",
+        "address": "Starting from Livadi Arachova ",
+        "distance": 500,
+        "price": 20,
+        "maxGroupSize": 10,
+        "desc": "Parnassos, the mythical mountain of antiquity generously offers unique hiking experiences!  The Parnassos National Park has a total area of 36,000 acres. It was founded in 1938 and together with Mt. Olympus National Park, they are the oldest National Parks in the country. This area presents truly impressive landscapes with fir forests, vertical caverns, rocky peaks as well as great biodiversity!",
+        "reviews": [],
+
+        "photo": "/activity-images/activity-img03.jpg",
+        "featured": true
+    },
+    {
+        "title": "Mt. Bike Lake Plastira2",
+        "city": "Lake Plastira",
+        "address": "Karditsa regional unit",
+        "distance": 500,
+        "price": 15,
+        "maxGroupSize": 8,
+        "desc": "Mountain biking is an ideal way to explore the forest roads and trails that surround Lake Plastira. The morphology of the summits of Agrafa in combination with the dense pine forest that surrounds the lake provides unique views for the traveler. Follow our professional guides on a tour or rent your bike to choose your own routes.Safety equipment is provided free of charge to every rider and includes a bicycle helmet, reflective vest, backpack, tube changing tools, portable pump & extra tubes.",
+        "reviews": [],
+
+        "photo": "/activity-images/activity-img04.jpg",
+        "featured": true
+    },
+    {
+        "title": "Rafting in Alfios3",
+        "city": "Maratha",
+        "address": " Peloponnesus",
+        "distance": 300,
+        "price": 10,
+        "maxGroupSize": 2,
+        "desc": "Lousios river is where Zeus, father of Olympian gods bathed himself.Upon arrival to our base in the village of Maratha, our team will welcome you. You will be given neopren suits and safety equipment to change. You will then  enter our bus taking you to the starting point. Your guides will give an introductory lesson on paddling and safety and ..let the fun begin!We will paddle in Lousios and Alfeios rivers, which are of 2nd degree of difficulty. We will make various stops for a swim in the river’s crystal clear waters and for selfies in the densely vegetated gorge. Our ending takes place to the spectacular bridge of “Koukos” from where we will hike to a nearby waterfall.",
+        "reviews": [],
+
+        "photo": "/activity-images/activity-img01.jpg",
+        "featured": true
+    },
+    {
+        "title": "Creatan Safari3",
+        "city": "Heraklion",
+        "address": " Crete",
+        "distance": 600,
+        "price": 79,
+        "maxGroupSize": 5,
+        "desc": "Experience the central part of Crete with its mythology, flora, fauna with lots of fun and interesting information about Crete and the local life.Your day starts from the moment you meet your drivers where they take you to your first stop at the Aposelimi dam. Continuing our journey through paths and olive trees, we reach the ruins of the Roman aqueduct of Lyttos. Next stop is the quaint village of Kastamonitsa where we join the locals for Raki and Olive oil tasting. From here the real off-road adventure begins by climbing high into the mountains and following the ancient Minoan path that leads us to a local shepherd where you have the chance try some of the home-made cheese and see a lot of wild animals. From here we make our way to a magnificent viewpoint where we can see the Minoan path and the first sitting of the Lassithi Plateau. Making our way down onto the Plateau we head to Zeus’ Cave (where mythology says that Zeus, the father of all the gods was born!) there is a 6€ entrance fee and walking shoes are recommended. When you reach the top of the cave you have the opportunity to take photographs as if with a helicopters view of the Lassithi Plateau and from here we cross the Plateau and stop for your delicious BBQ lunch with unlimited wine (vegetarian option available)!As we continue, we reach the village of Krassi, which is our last stop of the day, which is famous for a 2,000-year old plane tree and has a natural spring water source",
+        "reviews": [],
+
+        "photo": "/activity-images/activity-img02.jpg",
+        "featured": true
+    }
+]
